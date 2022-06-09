@@ -77,7 +77,9 @@ El archivo de salida del scrapping tiene formato **json**, y consta de una colec
 ```
 <br/>
 
-
+El archivo de salida del script graph.py es una imagen en formato png que contiene la grafica de cantidad de tokens VS vocabulario.
+<img src="https://lh3.googleusercontent.com/9rWqXksk9MAw9Kf2EYW4tDWqpSpDKKRG2TxMXpr16Q1Rejhy96K36zVzjnBSd3K0wmSy3TT-DGd3nuvP4OKnGXHl4EsSh422NX7OJJvne5_WUZobeN7TwX1PtvsqkvP_Fgt_j72ZcQ=w2400" />
+<br/>
 ## Descripcion del Contenido del sitio Web 
 
 ## Contribuciones
