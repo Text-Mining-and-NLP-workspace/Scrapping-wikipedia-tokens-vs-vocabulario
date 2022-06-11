@@ -46,9 +46,12 @@ una vez creado el ambiente virtual, proceder a activarlo
 ```
 conda activate my_enviroment
 ```
-instalamos scrapy en nuestro ambiente
+instalamos los siguientes paquetes en nuestro ambiente:
 ```
 conda install scrapy -c conda-forge
+conda install pip
+pip install jupyter
+pip install notebook
 ```
 nos cambiamos hacia el path en donde se clono el repositorio
 ```
@@ -64,6 +67,13 @@ python graph.py
 ```
 como salida obtenermos el archivo de imagen **_token_VS_vocabulary_plot.png_** con la grafica de token VS vocabulary y la grafica del modelo utilizando la Ley de Heaps.
 de igual manera se puede utilizar el notebook de jupyter [**_Token VS Vocabulary.ipynb_**](#jupyter-notebook) para procesar el archivo json y obtener las graficas deseadas
+con el siguiente comando:
+
+```
+jupyter notebook "Token VS Vocabulary.ipynb"
+```
+para las indicaciones y descripcion ir a la seccion [Jupyter Notebook](#jupyter-notebook)
+
 
 ## Estructura del archivo de salida
 
@@ -81,6 +91,10 @@ El archivo de salida del script graph.py es una imagen en formato png que contie
 <img src="https://lh3.googleusercontent.com/9rWqXksk9MAw9Kf2EYW4tDWqpSpDKKRG2TxMXpr16Q1Rejhy96K36zVzjnBSd3K0wmSy3TT-DGd3nuvP4OKnGXHl4EsSh422NX7OJJvne5_WUZobeN7TwX1PtvsqkvP_Fgt_j72ZcQ=w2400" />
 <br/>
 ## Descripcion del Contenido del sitio Web 
+
+<a href="https://en.wikipedia.org/wiki/Wikipedia:Featured_articles"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wikipedia-logo-v2-en.svg/892px-Wikipedia-logo-v2-en.svg.png"  width="180" height="204"></a>
+#### Wikipedia:Featured articles
+> Featured articles are considered to be some of the best articles Wikipedia has to offer, as determined by Wikipedia's editors. They are used by editors as examples for writing other articles. Before being listed here, articles are reviewed as featured article candidates for accuracy, neutrality, completeness, and style according to our featured article criteria. Many featured articles were previously good articles (which are reviewed with a less restrictive set of criteria). There are 6,104 featured articles out of 6,510,887 articles on the English Wikipedia (about 0.09% or one out of every 1,060 articles).
 
 ## Contribuciones
 
