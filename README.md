@@ -96,6 +96,9 @@ El archivo de salida del script graph.py es una imagen en formato png que contie
 #### Wikipedia:Featured articles
 > Featured articles are considered to be some of the best articles Wikipedia has to offer, as determined by Wikipedia's editors. They are used by editors as examples for writing other articles. Before being listed here, articles are reviewed as featured article candidates for accuracy, neutrality, completeness, and style according to our featured article criteria. Many featured articles were previously good articles (which are reviewed with a less restrictive set of criteria). There are 6,104 featured articles out of 6,510,887 articles on the English Wikipedia (about 0.09% or one out of every 1,060 articles).
 
+estaremos realizando el scrapping de todo el texto de los primeros 500 articulos
+<img src="https://lh3.googleusercontent.com/lCt8mzUjZNvnEuuNEAsnfUK9aMhi6VJdz4r6xS0HWN4uxRJRTM4Ar1lRF9NEhUq5N4Uky1dxyzLmVQdQyL-Aj1Unnz3kb_9Z49D2OOBWhFbOS4aZSF1AosGOU6K5mM7LDeYZXgINxQ=w2400">
+
 ## Contribuciones
 
 - Aldo Montenegro Margnoni
