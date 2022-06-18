@@ -34,7 +34,7 @@ clonamos este repositorio en el directorio deseado desde una terminal, para wind
 ```
 git clone https://github.com/Text-Mining-and-NLP-workspace/Scrapping-wikipedia-tokens-vs-vocabulario.git
 ```
-Desde la terminal o anaconda prompt (windows) creamis un ambiente virtual con conda (reemplazar my_enviroment con el nombre deseado)
+Desde la terminal o anaconda prompt (windows) creamos un ambiente virtual con conda (reemplazar my_enviroment con el nombre deseado)
 ```
 conda create -n my_enviroment
 ```
@@ -61,18 +61,18 @@ Primero obtenemos el texto de varios articulos de wikipedia, para esto ejecutamo
 ```
 scrapy crawl token_VS_vocabulary
 ```
-como salida se creara el archivo **_token_VS_vocabulary.json_** en nuestro directorio de trabajo el cual se puede procesar ya sea con el script python graph.py
+como salida se creara el archivo **_token_VS_vocabulary.json_** en nuestro directorio de trabajo el cual se puede procesar con el script python graph.py
 ```
 python graph.py
 ```
-como salida obtenermos el archivo de imagen **_token_VS_vocabulary_plot.png_** con la grafica de token VS vocabulary y la grafica del modelo utilizando la Ley de Heaps.
+como salida obtenemos el archivo de imagen **_token_VS_vocabulary_plot.png_** con la grafica de token VS vocabulary y la grafica del modelo utilizando la Ley de Heaps.
 de igual manera se puede utilizar el notebook de jupyter [**_Token VS Vocabulary.ipynb_**](#jupyter-notebook) para procesar el archivo json y obtener las graficas deseadas
-con el siguiente comando:
+iniciando el notebook con el siguiente comando:
 
 ```
 jupyter notebook "Token VS Vocabulary.ipynb"
 ```
-para las indicaciones y descripcion ir a la seccion [Jupyter Notebook](#jupyter-notebook)
+para indicaciones y descripcion ver la seccion [Jupyter Notebook](#jupyter-notebook)
 
 
 ## Estructura del archivo de salida
@@ -81,7 +81,8 @@ El archivo de salida del scrapping tiene formato **json**, y consta de una colec
 <br/>
 ```
 {
-	{'text':'Este es un texto de ejemplo'} 
+	{'text':'Este es un texto de ejemplo'}
+	{'text':'Este es otro texto de ejemplo'}	
 	...
 }
 ```
