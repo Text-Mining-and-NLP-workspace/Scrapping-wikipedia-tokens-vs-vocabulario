@@ -122,3 +122,8 @@ estaremos realizando el scrapping de todo el texto de los primeros 500 articulos
 ## Jupyter Notebook
 
 
+<img src="https://lh3.googleusercontent.com/GeIgbY-rXa7Jz4bhPvdTWv8QVYct24fJ3JLbFhT-UWdjvd9MyijaEPUTywyCWEYz2xaVxEAKtwspC_4XruxyA24EISfc5XjSiRxd6FPABTwb0s12etOoPlXHCP7br5NNNlGquSirYw=w2400" >
+
+<img src="https://lh3.googleusercontent.com/lg88Jui-4n_ed83C8v6EukIEdJTkSwk1AlCvSoTIvRltb39FsBIY8VRW-90XBxzdhqt5Pzmuqu5akAy8l59kB1ZGdIfLvE2QwJw7A1qeGwIp0bmA3BkkaEKhEPId-cTxgrBiE7lsfw=w2400">
+
+<img src="https://lh3.googleusercontent.com/HWJcfSZYnY2YmF7I1CacR8Bqog8mzU3-rROu3xMufJcEwR2V59znu30Mz2KYS1BYKV9ON6O_OhqdDZPn12Lk6CfChlG8VAbUgb_l_2OtBHUUO156RkbY5Ons7OA6MvvYJGp5uGUd6A=w2400" >
