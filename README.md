@@ -102,28 +102,39 @@ estaremos realizando el scrapping de todo el texto de los primeros 500 articulos
 ## Contribuciones
 
 - Aldo Montenegro Margnoni
-    - a
+    - Selectores para scrapy
+	- Scrapping Wikipedia
 <br/>
 
 - Gabriel Fernando Montenero Ortiz
-    - b
+    - Jupyter Notebook
+	- Modelo Ley de Heaps
     
 <br/>
 
 - Axel Adolfo Muralles Carranza
-    - c
+    - Scrapping Wikipedia
+	- Edicion Readme
+	- Script para graficar graph.py
 
 <br/>
 
 - German Antonio Oliva Muralles
-    - d
+    - Procesamiento de tokens y vocabulario
+	- Jupyter Notebook
+	
 <br/>
 
 ## Jupyter Notebook
-
-
-<img src="https://lh3.googleusercontent.com/GeIgbY-rXa7Jz4bhPvdTWv8QVYct24fJ3JLbFhT-UWdjvd9MyijaEPUTywyCWEYz2xaVxEAKtwspC_4XruxyA24EISfc5XjSiRxd6FPABTwb0s12etOoPlXHCP7br5NNNlGquSirYw=w2400" >
-
+<br>
+Nuestro Notebook consta de 4 partes importantes, en la primera parde se realiza una descripcion y se cargan las librerias y los archivos necesarios:
+<img src="https://lh3.googleusercontent.com/GeIgbY-rXa7Jz4bhPvdTWv8QVYct24fJ3JLbFhT-UWdjvd9MyijaEPUTywyCWEYz2xaVxEAKtwspC_4XruxyA24EISfc5XjSiRxd6FPABTwb0s12etOoPlXHCP7br5NNNlGquSirYw=w2400">
+<br>
+en la segunda parte, podemos observar la estructura de nuestra data, y se realiza el procesamiento de los primero 250 documentos, para obtener los pares token vs vocabulary
 <img src="https://lh3.googleusercontent.com/lg88Jui-4n_ed83C8v6EukIEdJTkSwk1AlCvSoTIvRltb39FsBIY8VRW-90XBxzdhqt5Pzmuqu5akAy8l59kB1ZGdIfLvE2QwJw7A1qeGwIp0bmA3BkkaEKhEPId-cTxgrBiE7lsfw=w2400">
-
-<img src="https://lh3.googleusercontent.com/HWJcfSZYnY2YmF7I1CacR8Bqog8mzU3-rROu3xMufJcEwR2V59znu30Mz2KYS1BYKV9ON6O_OhqdDZPn12Lk6CfChlG8VAbUgb_l_2OtBHUUO156RkbY5Ons7OA6MvvYJGp5uGUd6A=w2400" >
+<br>
+en la siguiente parte realizamos la grafica de estos pares para observar la relacion de entre tokens y vocabulario, y tambien podemos ver como se asemeja un modelo teoreico a la data experimetal
+<img src="https://lh3.googleusercontent.com/HWJcfSZYnY2YmF7I1CacR8Bqog8mzU3-rROu3xMufJcEwR2V59znu30Mz2KYS1BYKV9ON6O_OhqdDZPn12Lk6CfChlG8VAbUgb_l_2OtBHUUO156RkbY5Ons7OA6MvvYJGp5uGUd6A=w2400">
+<br>
+y por ultimo cno el proposito de demostrar que la Ley de Heaps tiede a cumplirse, realizamos tres experimentos muestreando aleatoreamente 250 documentos en nuestro set, y procesandolos, y por conclusion podemos observar que el modelo se asemeja mucho a los datos experimentales
+<img src="https://lh3.googleusercontent.com/rqQ8sbkGzzJKdmCNxqNmyuqRFdiWega_wZzOcIo5o_a6FPOjqcpCW-iX6VBofU7Tl4XPtFcIZPVYMJyEd9udS1VfwQSBByLeLTIaJY_WUjTR0EVUvXbQmACGfkC56tV6qnyibPNr_A=w2400">
